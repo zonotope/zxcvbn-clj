@@ -1,4 +1,4 @@
-(defproject zonotope/zxcvbn-clj "0.1.0-SNAPSHOT"
+(defproject zxcvbn-clj "0.1.0-SNAPSHOT"
   :description "zxcvbn for clojure"
 
   :url "https://github.com/zonotope/zxcvbn-clj"
