@@ -1,10 +1,11 @@
 # zxcvbn-clj
 
-A clojure api for [zxcvbn](https://github.com/dropbox/zxcvbn)
+A clojure api for [zxcvbn](https://github.com/dropbox/zxcvbn). Based
+on [zxcvbn4j](https://github.com/nulab/zxcvbn4j).
 
 ## Usage
 
-`(zxcvbn.core/zxcvbn password)`
+`(zxcvbn.core/check password)`
 
 ## License
 
